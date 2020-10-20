@@ -1,0 +1,17 @@
+.contents{
+    margin-top:2em;
+    border: none;
+}
+.more-button{
+    background-color: white;
+    border: none;
+    color: red;
+    outline: none;
+}
+
+#more {
+    display: none;
+}
+*:focus {
+    outline: 0 !important;
+}
